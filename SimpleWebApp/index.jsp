@@ -4,7 +4,7 @@
         <title>Simple JSP App</title>
     </head>
     <body>
-        <h2>Welcome to My Simple JSP Web App !</h2>
+        <h2>Welcome to My Simple JSP Web App ! ! ! !</h2>
 
         <form action="result.jsp" method="get">
             Enter your name: <input type="text" name="username" />
